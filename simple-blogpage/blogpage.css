@@ -1,0 +1,36 @@
+body
+{
+	margin: 20px auto;
+	width: 80%;
+	max-width: 700px;
+	border-width: 20px;
+	border-color: #bdc3c7;
+	border-style: solid;
+	padding: 10px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+h2
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #2c3e50;
+}	
+.date
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 0.2rem;
+}
+.firstpara
+{
+	border-left-color: #bdc3c7;
+	border-left-width: 5px;
+	border-left-style: solid;
+	padding-left: 5px; 
+}
